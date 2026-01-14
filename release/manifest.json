@@ -1,0 +1,9 @@
+{
+  "name": "ExtendedRandomMoons",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/BeInForIt/ExtendedRandomMoons",
+  "description": "Adds 'route random' terminal command with filters (blacklist, weather, company moons), optional repeat-avoidance, and optional credit deduction. Compatible with LethalLevelLoader.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
